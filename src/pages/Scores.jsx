@@ -23,7 +23,7 @@ const TYPE_TAG = { PP: 'PP', SH: 'SH', EN: 'EN', PS: 'PS' }; // EV intentionally
 const PERIOD_LABEL = { 1: '1ST', 2: '2ND', 3: '3RD', 4: 'OT', 5: 'OT2' };
 
 // ─── Shared logo component ────────────────────────────────────────────────────
-const Logo = ({ team, size = 60 }) => (
+const Logo = ({ team, size = 600 }) => (
   <img
     src={`/assets/teamLogos/${team}.png`}
     alt={team}
