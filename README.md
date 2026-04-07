@@ -1,2 +1,3 @@
-# wn95-online
-Created with StackBlitz ⚡️
+# NHL95.net
+
+Building the new website. Need to do alot to make it better.
