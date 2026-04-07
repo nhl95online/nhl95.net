@@ -125,7 +125,7 @@ export default function ProHockeyStandings() {
           --nhl-blue: #006bb6;
           --nhl-gray: #f5f5f5;
           --border-color: #dbdbdb;
-          --text-dark: #222222;
+          --text-dark: #000000;
           --text-muted: #666666;
         }
         /* (Remaining CSS from user provided HTML) */
