@@ -1,6 +1,5 @@
 import { useEffect, useState, useCallback, useRef } from 'react';
 import { supabase } from '../utils/supabaseClient';
-import TwitchLiveWidget from '../components/TwitchLiveWidget';
 import { useLeague } from '../components/LeagueContext';
 
 const lgPrefix = (lg) => (lg || '').replace(/[0-9]/g, '').trim();
